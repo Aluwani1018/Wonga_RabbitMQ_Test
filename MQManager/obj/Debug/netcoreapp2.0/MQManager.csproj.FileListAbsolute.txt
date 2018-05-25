@@ -1,0 +1,9 @@
+C:\Users\c0891003\source\repos\Wonga_Test\MQManager\bin\Debug\netcoreapp2.0\MQManager.deps.json
+C:\Users\c0891003\source\repos\Wonga_Test\MQManager\bin\Debug\netcoreapp2.0\MQManager.dll
+C:\Users\c0891003\source\repos\Wonga_Test\MQManager\obj\Debug\netcoreapp2.0\MQManager.csprojResolveAssemblyReference.cache
+C:\Users\c0891003\source\repos\Wonga_Test\MQManager\obj\Debug\netcoreapp2.0\MQManager.csproj.CoreCompileInputs.cache
+C:\Users\c0891003\source\repos\Wonga_Test\MQManager\obj\Debug\netcoreapp2.0\MQManager.AssemblyInfoInputs.cache
+C:\Users\c0891003\source\repos\Wonga_Test\MQManager\obj\Debug\netcoreapp2.0\MQManager.AssemblyInfo.cs
+C:\Users\c0891003\source\repos\Wonga_Test\MQManager\bin\Debug\netcoreapp2.0\MQManager.pdb
+C:\Users\c0891003\source\repos\Wonga_Test\MQManager\obj\Debug\netcoreapp2.0\MQManager.dll
+C:\Users\c0891003\source\repos\Wonga_Test\MQManager\obj\Debug\netcoreapp2.0\MQManager.pdb

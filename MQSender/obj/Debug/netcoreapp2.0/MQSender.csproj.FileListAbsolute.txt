@@ -1,0 +1,14 @@
+C:\Users\c0891003\source\repos\Wonga_Test\MQSender\bin\Debug\netcoreapp2.0\MQSender.deps.json
+C:\Users\c0891003\source\repos\Wonga_Test\MQSender\bin\Debug\netcoreapp2.0\MQSender.runtimeconfig.json
+C:\Users\c0891003\source\repos\Wonga_Test\MQSender\bin\Debug\netcoreapp2.0\MQSender.runtimeconfig.dev.json
+C:\Users\c0891003\source\repos\Wonga_Test\MQSender\bin\Debug\netcoreapp2.0\MQSender.dll
+C:\Users\c0891003\source\repos\Wonga_Test\MQSender\bin\Debug\netcoreapp2.0\MQSender.pdb
+C:\Users\c0891003\source\repos\Wonga_Test\MQSender\bin\Debug\netcoreapp2.0\MQManager.dll
+C:\Users\c0891003\source\repos\Wonga_Test\MQSender\bin\Debug\netcoreapp2.0\MQManager.pdb
+C:\Users\c0891003\source\repos\Wonga_Test\MQSender\obj\Debug\netcoreapp2.0\MQSender.csprojResolveAssemblyReference.cache
+C:\Users\c0891003\source\repos\Wonga_Test\MQSender\obj\Debug\netcoreapp2.0\MQSender.csproj.CoreCompileInputs.cache
+C:\Users\c0891003\source\repos\Wonga_Test\MQSender\obj\Debug\netcoreapp2.0\MQSender.AssemblyInfoInputs.cache
+C:\Users\c0891003\source\repos\Wonga_Test\MQSender\obj\Debug\netcoreapp2.0\MQSender.AssemblyInfo.cs
+C:\Users\c0891003\source\repos\Wonga_Test\MQSender\obj\Debug\netcoreapp2.0\MQSender.csproj.CopyComplete
+C:\Users\c0891003\source\repos\Wonga_Test\MQSender\obj\Debug\netcoreapp2.0\MQSender.dll
+C:\Users\c0891003\source\repos\Wonga_Test\MQSender\obj\Debug\netcoreapp2.0\MQSender.pdb

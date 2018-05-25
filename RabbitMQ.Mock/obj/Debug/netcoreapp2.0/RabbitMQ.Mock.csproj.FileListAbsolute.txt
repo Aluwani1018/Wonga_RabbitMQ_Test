@@ -1,0 +1,9 @@
+C:\Users\c0891003\source\repos\Wonga_Test\RabbitMQ.Mock\bin\Debug\netcoreapp2.0\RabbitMQ.Mock.deps.json
+C:\Users\c0891003\source\repos\Wonga_Test\RabbitMQ.Mock\bin\Debug\netcoreapp2.0\RabbitMQ.Mock.dll
+C:\Users\c0891003\source\repos\Wonga_Test\RabbitMQ.Mock\bin\Debug\netcoreapp2.0\RabbitMQ.Mock.pdb
+C:\Users\c0891003\source\repos\Wonga_Test\RabbitMQ.Mock\obj\Debug\netcoreapp2.0\RabbitMQ.Mock.csproj.CoreCompileInputs.cache
+C:\Users\c0891003\source\repos\Wonga_Test\RabbitMQ.Mock\obj\Debug\netcoreapp2.0\RabbitMQ.Mock.AssemblyInfoInputs.cache
+C:\Users\c0891003\source\repos\Wonga_Test\RabbitMQ.Mock\obj\Debug\netcoreapp2.0\RabbitMQ.Mock.AssemblyInfo.cs
+C:\Users\c0891003\source\repos\Wonga_Test\RabbitMQ.Mock\obj\Debug\netcoreapp2.0\RabbitMQ.Mock.dll
+C:\Users\c0891003\source\repos\Wonga_Test\RabbitMQ.Mock\obj\Debug\netcoreapp2.0\RabbitMQ.Mock.pdb
+C:\Users\c0891003\source\repos\Wonga_Test\RabbitMQ.Mock\obj\Debug\netcoreapp2.0\RabbitMQ.Mock.csprojResolveAssemblyReference.cache

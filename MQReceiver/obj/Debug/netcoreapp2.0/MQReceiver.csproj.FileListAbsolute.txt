@@ -1,0 +1,14 @@
+C:\Users\c0891003\source\repos\Wonga_Test\MQReceiver\bin\Debug\netcoreapp2.0\MQReceiver.deps.json
+C:\Users\c0891003\source\repos\Wonga_Test\MQReceiver\bin\Debug\netcoreapp2.0\MQReceiver.runtimeconfig.json
+C:\Users\c0891003\source\repos\Wonga_Test\MQReceiver\bin\Debug\netcoreapp2.0\MQReceiver.runtimeconfig.dev.json
+C:\Users\c0891003\source\repos\Wonga_Test\MQReceiver\bin\Debug\netcoreapp2.0\MQReceiver.dll
+C:\Users\c0891003\source\repos\Wonga_Test\MQReceiver\bin\Debug\netcoreapp2.0\MQReceiver.pdb
+C:\Users\c0891003\source\repos\Wonga_Test\MQReceiver\obj\Debug\netcoreapp2.0\MQReceiver.csprojResolveAssemblyReference.cache
+C:\Users\c0891003\source\repos\Wonga_Test\MQReceiver\obj\Debug\netcoreapp2.0\MQReceiver.csproj.CoreCompileInputs.cache
+C:\Users\c0891003\source\repos\Wonga_Test\MQReceiver\obj\Debug\netcoreapp2.0\MQReceiver.AssemblyInfoInputs.cache
+C:\Users\c0891003\source\repos\Wonga_Test\MQReceiver\obj\Debug\netcoreapp2.0\MQReceiver.AssemblyInfo.cs
+C:\Users\c0891003\source\repos\Wonga_Test\MQReceiver\obj\Debug\netcoreapp2.0\MQReceiver.dll
+C:\Users\c0891003\source\repos\Wonga_Test\MQReceiver\obj\Debug\netcoreapp2.0\MQReceiver.pdb
+C:\Users\c0891003\source\repos\Wonga_Test\MQReceiver\bin\Debug\netcoreapp2.0\MQManager.dll
+C:\Users\c0891003\source\repos\Wonga_Test\MQReceiver\bin\Debug\netcoreapp2.0\MQManager.pdb
+C:\Users\c0891003\source\repos\Wonga_Test\MQReceiver\obj\Debug\netcoreapp2.0\MQReceiver.csproj.CopyComplete
