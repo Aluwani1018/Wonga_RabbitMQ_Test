@@ -128,7 +128,7 @@ namespace RabbitMQ.Mock
                 Type = type,
                 IsDurable = durable,
                 AutoDelete = autoDelete,
-                Arguments = arguments as IDictionary<string, object>
+                Arguments = arguments
             };
             Func<string, Exchange, Exchange> updateFunction = (name, existing) => existing;
             _server.Exchanges.AddOrUpdate(exchange, exchangeInstance, updateFunction);
